@@ -14,9 +14,9 @@ Performing Machine Learning on a Food-based illness dataset available from CDC a
 Features
 ------------
 
-* **Supervised Learning System ** — It takes into consideration the key features like State, Month, Year, Food Consumed, Location of Food Consumption to predict the possible number of illnesses. This is surely helpful for Centre for Disease Control and Prevention to taking neccessary measures ahead of time to mitigate the risks.
+* **Supervised Learning System** — It takes into consideration the key features like State, Month, Year, Food Consumed, Location of Food Consumption to predict the possible number of illnesses. This is surely helpful for Centre for Disease Control and Prevention to taking neccessary measures ahead of time to mitigate the risks.
 
-* **Type of Predictions Made ** - 1. Prediction of Illnesses Count based on the features mentioned above
+* **Type of Predictions Made** - 1. Prediction of Illnesses Count based on the features mentioned above
                                   2. Classification of Diseases as High Scaled or Low Scaled
                                   3. Time Series Analysis to understand the impact of Month and Year on the Oubtreak Impact
 
